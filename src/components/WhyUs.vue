@@ -11,27 +11,18 @@
                 <div class="flex flex-col gap-4 items-start mt-8 p-0 h-fit w-full">
                     <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                         <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                        <p class="font-philosopher text-base font-bold text-brand">Faktor X</p>
-                        <p class="font-philosopher text-base text-left">Curabitur arcu erat, accumsan id imperdiet et,
-                            porttitor
-                            at
-                            sem.</p>
+                        <p class="font-philosopher text-base font-bold text-brand">Pengalaman Yang Luas</p>
+                        <p class="font-philosopher text-base text-left">Kami telah berpengalaman selama bertahun-tahun</p>
                     </div>
                     <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                         <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                        <p class="font-philosopher text-base font-bold text-brand">Faktor X</p>
-                        <p class="font-philosopher text-base text-left">Curabitur arcu erat, accumsan id imperdiet et,
-                            porttitor
-                            at
-                            sem.</p>
+                        <p class="font-philosopher text-base font-bold text-brand">Kualitas Tinggi</p>
+                        <p class="font-philosopher text-base text-left">Kami menempatkan kualitas sebagai prioritas utama dalam setiap aspek kerja kami.</p>
                     </div>
                     <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                         <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                        <p class="font-philosopher text-base font-bold text-brand">Faktor X</p>
-                        <p class="font-philosopher text-base text-left">Curabitur arcu erat, accumsan id imperdiet et,
-                            porttitor
-                            at
-                            sem.</p>
+                        <p class="font-philosopher text-base font-bold text-brand">Pelayanan Pelanggan Yang Profesional</p>
+                        <p class="font-philosopher text-base text-left">Kami memiliki tim layanan pelanggan yang ramah, penuh perhatian, dan berpengalaman</p>
                     </div>
                 </div>
             </div>
