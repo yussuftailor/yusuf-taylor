@@ -5,20 +5,20 @@
         </h3>
         <div class="flex gap-6 mt-6 justify-center">
             <div>
-                <a href="https://www.instagram.com/yusufmaxitailor/" target="_blank">
-                    <img src="../assets/img/footer-in.png" alt="">
-                </a>
-            </div>
-            <div>
-                <a href="https://www.instagram.com/yusufmaxitailor/" target="_blank">
+                <a href=" https://instagram.com/yussuftailor?igshid=MzRlODBiNWFlZA==" target="_blank">
                     <img src="../assets/img/footer-ig.png" alt="">
                 </a>
             </div>
             <div>
+                <a href=" https://m.facebook.com/yussuftailor67" target="_blank">
+                    <img src="../assets/img/footer-fb.png" alt="">
+                </a>
+            </div>
+            <!-- <div>
                 <a href="https://www.instagram.com/yusufmaxitailor/" target="_blank">
                     <img src="../assets/img/footer-tiktok.png" alt="">
                 </a>
-            </div>
+            </div> -->
         </div>
         <div class="h-px mt-8 bg-brand bg-opacity-25 w-full max-w-sm"></div>
         <div class="mt-8">

@@ -17,7 +17,7 @@
                         <img :src="socialData.mediaLogo" alt="" class="h-10 w-10 bg-gray-50" />
                         <div class="text-sm leading-6">
                             <p class="text-left font-philosopher font-semibold text-gray-900">
-                                <a href="#">
+                                <a :href="socialData.socialLink" target="_blank">
                                     <span class="absolute inset-0" />
                                     {{ socialData.mediaId }}
                                 </a>

@@ -21,9 +21,8 @@ export default {
   data() {
     return {
       socialData: [
-        { mediaSocial: "Instagram", mediaId:"yusuftaylor", mediaLogo: require("../assets/img/social/logo-instagram.png") },
-        { mediaSocial: "Email", mediaId:"yusuftaylor", mediaLogo: require("../assets/img/social/logo-tiktok.png") },
-        { mediaSocial: "Tokopedia", mediaId:"yusuftaylor", mediaLogo: require("../assets/img/social/logo-in.png") },
+        { mediaSocial: "Instagram", mediaId:"yusuftaylor", mediaLogo: require("../assets/img/social/logo-instagram.png"), socialLink: "https://www.instagram.com/yussuftailor/?igshid=MzRlODBiNWFlZA%3D%3D" },
+        { mediaSocial: "Facebook", mediaId:"yussuftailor67", mediaLogo: require("../assets/img/social/logo-fb.png"), socialLink: "https://www.facebook.com/yussuftailor67?paipv=0&eav=AfZgkpGuZmZGWNQIv-0OCJ0e3JHtpkDfaDjJJUhqXJfRMqrFMmWMK07KsKmXj3ZdfK0&_rdr" },
       ]
     }
   }
