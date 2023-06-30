@@ -44,8 +44,8 @@
                                     class="text-brand hover:bg-gray-700 rounded-md px-3 py-2 text-md font-bold">Shop</router-link>
                                 <router-link to="/about" href="#"
                                     class="text-brand hover:bg-gray-700 rounded-md px-3 py-2 text-md font-bold">About</router-link>
-                                <router-link to="/contact" href="#"
-                                    class="text-brand hover:bg-gray-700 rounded-md px-3 py-2 text-md font-bold">Contact</router-link>
+                                <!-- <router-link to="/contact" href="#"
+                                    class="text-brand hover:bg-gray-700 rounded-md px-3 py-2 text-md font-bold">Contact</router-link> -->
                                 <a href="/contact"
                                     class="font-philosopher w-fit rounded-md bg-brand px-3.5 py-2.5 text-sm font-semibold"
                                     style="color:#FFFFFF;">Contact</a>
@@ -72,8 +72,8 @@
                 <router-link @click="showMenu = !showMenu" to="/about" href="#"
                     class="px-4 text-brand  hover:bg-gray-700 block rounded-md py-2 text-base font-bold">About</router-link>
                 <!-- <router-link @click="showMenu = !showMenu" to="/" href="#" class="px-4 text-brand  hover:bg-gray-700 block rounded-md py-2 text-base font-bold">Home</router-link> -->
-                <router-link @click="showMenu = !showMenu" to="/contact" href="#"
-                    class="px-4 text-brand  hover:bg-gray-700 block rounded-md py-2 text-base font-bold">Contact</router-link>
+                <!-- <router-link @click="showMenu = !showMenu" to="/contact" href="#"
+                    class="px-4 text-brand  hover:bg-gray-700 block rounded-md py-2 text-base font-bold">Contact</router-link> -->
                 <a href="/contact" class="mx-4 font-philosopher w-fit rounded-md bg-brand px-3.5 py-2.5 text-sm font-semibold"
                     style="color:#FFFFFF;">Contact</a>
             </div>
