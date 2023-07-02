@@ -3,7 +3,7 @@
         <div class="mx-auto max-w-7xl px-6 lg:px-8">
             <div class="mx-auto max-w-7xl lg:mx-0">
                 <h2 class="text-left font-philosopher font-bold text-brand text-2xl md:text-4xl">Media Sosial</h2>
-                <p class="text-left mt-4 font-philosopher text-base max-w-2xl">Temukan kami di social media.</p>
+                <p class="text-left mt-4 font-philosopher text-base max-w-2xl">Ikuti jejak kami di dunia Media Sosial dan temukan segala hal menarik yang kami bagikan!</p>
                 <p>{{ id }}</p>
             </div>
             <div class="mt-8 h-px bg-brand bg-opacity-25 w-full"></div>

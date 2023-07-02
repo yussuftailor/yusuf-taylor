@@ -1,7 +1,7 @@
 <template>
     <div class="flex flex-col items-center bg-brand-gray py-16">
         <h3 class="font-philosopher text-brand text-2xl">
-            Stay Update
+            Stay Update On
         </h3>
         <div class="flex gap-6 mt-6 justify-center">
             <div>

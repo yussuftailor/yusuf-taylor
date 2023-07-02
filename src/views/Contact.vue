@@ -23,6 +23,7 @@ export default {
       socialData: [
         { mediaSocial: "Instagram", mediaId:"yussuftailor", mediaLogo: require("../assets/img/social/logo-instagram.png"), socialLink: "https://www.instagram.com/yussuftailor/?igshid=MzRlODBiNWFlZA%3D%3D" },
         { mediaSocial: "Facebook", mediaId:"yussuftailor67", mediaLogo: require("../assets/img/social/logo-fb.png"), socialLink: "https://www.facebook.com/yussuftailor67?paipv=0&eav=AfZgkpGuZmZGWNQIv-0OCJ0e3JHtpkDfaDjJJUhqXJfRMqrFMmWMK07KsKmXj3ZdfK0&_rdr" },
+        { mediaSocial: "Email", mediaId:"yussuftailor@outlook.com", mediaLogo: require("../assets/img/social/logo-email.png"), socialLink: "mailto:yussuftailor@outlook.com" },
       ]
     }
   }

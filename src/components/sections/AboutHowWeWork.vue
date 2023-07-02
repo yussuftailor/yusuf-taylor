@@ -14,34 +14,34 @@
                     <div class="flex flex-col gap-4 items-start mt-8 p-0 h-fit w-full">
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Konsultasi:</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Konsultasi:</p>
                             <p class="font-philosopher text-base text-left">Kami memulai dengan konsultasi mendalam untuk memahami gaya, preferensi, dan kebutuhan Anda.</p>
                         </div>
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Desain & Garment</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Desain & Garment</p>
                             <p class="font-philosopher text-base text-left">Berdasarkan konsultasi awal, kami akan mengembangkan desain yang sesuai dengan preferensi Anda.</p>
                         </div>
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Penyesuaian</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Penyesuaian</p>
                             <p class="font-philosopher text-base text-left">kami akan melakukan penyesuaian terakhir untuk memastikan pakaian tersebut pas dengan sempurna pada tubuh Anda.</p>
                         </div>
                     </div>
                     <div class="flex flex-col gap-4 items-start mt-8 p-0 h-fit w-full">
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Pengukuran</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Pengukuran</p>
                             <p class="font-philosopher text-base text-left">Kami akan mengambil pengukuran yang akurat untuk memastikan pakaian yang kami buat pas dengan tubuh Anda secara sempurna.</p>
                         </div>
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Pembuatan & Penjahitan</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Pembuatan & Penjahitan</p>
                             <p class="font-philosopher text-base text-left">Kami akan melakukan penyesuaian terakhir untuk memastikan pakaian tersebut pas dengan sempurna pada tubuh Anda.</p>
                         </div>
                         <div class="flex flex-col mt-4 gap-2 items-start p-0 w-full">
                             <div class="h-px bg-brand bg-opacity-25 w-full"></div>
-                            <p class="font-philosopher text-base font-bold text-brand">Pengiriman & Purna Jual</p>
+                            <p class="font-philosopher text-base font-bold text-left text-brand">Pengiriman & Purna Jual</p>
                             <p class="font-philosopher text-base text-left">Kami akan mengatur pengiriman atau penjemputan di toko kami.</p>
                         </div>
                     </div>
